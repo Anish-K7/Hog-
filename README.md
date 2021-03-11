@@ -1,2 +1,2 @@
-# Hog-
+# Hog
 Hog dice game
